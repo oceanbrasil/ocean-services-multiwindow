@@ -4,7 +4,7 @@
 
 > __Note:__ 
 
-> 1) 1) Android N added support for Multi-Window. Hence, Samsung MultiWindow SDK is deprecated on those devices running on Android N (API Level 24) or higher.
+> 1) Android N added support for Multi-Window. Hence, Samsung MultiWindow SDK is deprecated on those devices running on Android N (API Level 24) or higher.
 In order to support Multi-Window on these OS versions, you must use the Android Multi-Window APIs in your application.
 See the link below for more information about Android Multi-Window:
 [https://developer.android.com/guide/topics/ui/multi-window.html](https://developer.android.com/guide/topics/ui/multi-window.html)
