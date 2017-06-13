@@ -18,11 +18,11 @@ MultiWindow SDK supports Split Style, which divides screens equally, and Free St
 
 MultiWindow SDK provides the following features:
 
-    - Recent App
-    - MultiWindow Traybar
-    - Multi-Instance
-    - Paired Window
-    - Resize and Function
+- Recent App
+- MultiWindow Traybar
+- Multi-Instance
+- Paired Window
+- Resize and Function
 
 ## Download
 
