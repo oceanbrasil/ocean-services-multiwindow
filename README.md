@@ -41,7 +41,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-multiwindow:1.3.2'
+    compile 'com.github.oceanbrasil:ocean-services-multiwindow:1.3.2'
 }
 ```
 
